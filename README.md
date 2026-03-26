@@ -1,7 +1,3 @@
-Here’s a cleaner, more polished, and slightly more “wow” README you can drop straight into your repo 👇
-
----
-
 # 🏏 IPL Match Insights Dashboard
 
 A sleek, interactive **Streamlit dashboard** that dives deep into IPL data (2019–2024), uncovering trends, player performances, and match-winning patterns — with a built-in **match outcome predictor**.
