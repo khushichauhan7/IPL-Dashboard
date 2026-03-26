@@ -46,6 +46,9 @@ http://localhost:8501
 ```
 
 ---
+## Live Demo
+https://dashboard--ipl.streamlit.app
+---
 
 ## 📊 Dashboard Overview
 
