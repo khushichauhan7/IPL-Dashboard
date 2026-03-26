@@ -1,0 +1,241 @@
+match_id,season,date,team1,team2,venue,toss_winner,toss_decision,batting_first,chasing_team,winner,win_type,margin,is_neutral_venue,home_team
+1,2019,2019-05-20,RCB,DC,M. Chinnaswamy Stadium,RCB,field,DC,RCB,RCB,wickets,5,False,RCB
+2,2019,2019-04-03,RCB,RR,Sawai Mansingh Stadium,RCB,bat,RCB,RR,RCB,runs,50,False,RCB
+3,2019,2019-03-12,SRH,RR,Rajiv Gandhi International Stadium,RR,field,SRH,RR,RR,wickets,6,False,SRH
+4,2019,2019-05-24,MI,KKR,Eden Gardens,KKR,bat,KKR,MI,KKR,runs,11,False,MI
+5,2019,2019-05-18,RCB,LSG,M. Chinnaswamy Stadium,LSG,field,RCB,LSG,RCB,runs,41,False,RCB
+6,2019,2019-04-09,MI,RCB,Wankhede Stadium,MI,bat,MI,RCB,MI,runs,21,False,MI
+7,2019,2019-05-15,KKR,GT,Eden Gardens,GT,bat,GT,KKR,GT,runs,26,False,KKR
+8,2019,2019-05-13,DC,RR,Arun Jaitley Stadium,DC,field,RR,DC,RR,runs,28,False,DC
+9,2019,2019-03-05,MI,SRH,Rajiv Gandhi International Stadium,MI,field,SRH,MI,MI,wickets,1,False,MI
+10,2019,2019-05-09,CSK,DC,MA Chidambaram Stadium,DC,bat,DC,CSK,CSK,wickets,8,False,CSK
+11,2019,2019-03-10,DC,GT,Arun Jaitley Stadium,DC,field,GT,DC,GT,runs,22,False,DC
+12,2019,2019-03-17,CSK,SRH,Rajiv Gandhi International Stadium,CSK,field,SRH,CSK,SRH,runs,49,False,CSK
+13,2019,2019-05-25,GT,LSG,Narendra Modi Stadium,LSG,bat,LSG,GT,GT,wickets,3,False,GT
+14,2019,2019-04-08,KKR,DC,Eden Gardens,DC,bat,DC,KKR,KKR,wickets,6,False,KKR
+15,2019,2019-05-25,MI,DC,Wankhede Stadium,MI,bat,MI,DC,MI,runs,5,False,MI
+16,2019,2019-03-30,DC,PBKS,Arun Jaitley Stadium,PBKS,bat,PBKS,DC,DC,wickets,7,False,DC
+17,2019,2019-04-04,KKR,PBKS,Eden Gardens,PBKS,field,KKR,PBKS,PBKS,wickets,9,False,KKR
+18,2019,2019-05-08,SRH,LSG,Rajiv Gandhi International Stadium,LSG,bat,LSG,SRH,LSG,runs,15,False,SRH
+19,2019,2019-04-03,PBKS,RR,Punjab Cricket Association Stadium,PBKS,bat,PBKS,RR,RR,wickets,1,True,PBKS
+20,2019,2019-05-19,KKR,LSG,Eden Gardens,LSG,bat,LSG,KKR,LSG,runs,47,False,KKR
+21,2019,2019-05-14,MI,PBKS,Punjab Cricket Association Stadium,PBKS,field,MI,PBKS,PBKS,wickets,2,False,MI
+22,2019,2019-03-02,KKR,SRH,Rajiv Gandhi International Stadium,SRH,bat,SRH,KKR,SRH,runs,42,False,KKR
+23,2019,2019-04-05,RCB,PBKS,Punjab Cricket Association Stadium,RCB,bat,RCB,PBKS,PBKS,wickets,9,False,RCB
+24,2019,2019-04-26,RCB,GT,Narendra Modi Stadium,GT,bat,GT,RCB,GT,runs,5,False,RCB
+25,2019,2019-03-14,DC,SRH,Arun Jaitley Stadium,DC,bat,DC,SRH,DC,runs,16,True,DC
+26,2019,2019-04-09,PBKS,LSG,BRSABV Ekana Cricket Stadium,LSG,bat,LSG,PBKS,PBKS,wickets,1,False,PBKS
+27,2019,2019-03-19,CSK,MI,Wankhede Stadium,MI,bat,MI,CSK,CSK,wickets,4,False,CSK
+28,2019,2019-05-06,RCB,SRH,M. Chinnaswamy Stadium,RCB,bat,RCB,SRH,RCB,runs,33,False,RCB
+29,2019,2019-05-28,MI,LSG,Wankhede Stadium,MI,bat,MI,LSG,LSG,wickets,2,False,MI
+30,2019,2019-05-19,RR,LSG,Sawai Mansingh Stadium,RR,bat,RR,LSG,RR,runs,27,False,RR
+31,2019,2019-03-22,SRH,GT,Narendra Modi Stadium,SRH,field,GT,SRH,SRH,wickets,7,False,SRH
+32,2019,2019-03-18,SRH,PBKS,Punjab Cricket Association Stadium,SRH,bat,SRH,PBKS,PBKS,wickets,2,False,SRH
+33,2019,2019-04-10,RR,GT,Sawai Mansingh Stadium,RR,field,GT,RR,GT,runs,16,False,RR
+34,2019,2019-04-30,CSK,KKR,MA Chidambaram Stadium,KKR,bat,KKR,CSK,KKR,runs,36,False,CSK
+35,2019,2019-05-18,KKR,RR,Eden Gardens,KKR,field,RR,KKR,KKR,wickets,2,False,KKR
+36,2019,2019-05-16,CSK,PBKS,MA Chidambaram Stadium,CSK,field,PBKS,CSK,CSK,wickets,5,False,CSK
+37,2019,2019-03-01,DC,LSG,BRSABV Ekana Cricket Stadium,DC,bat,DC,LSG,DC,runs,18,False,DC
+38,2019,2019-05-14,CSK,RR,Sawai Mansingh Stadium,RR,bat,RR,CSK,RR,runs,36,False,CSK
+39,2019,2019-05-05,CSK,LSG,MA Chidambaram Stadium,CSK,bat,CSK,LSG,CSK,runs,38,False,CSK
+40,2019,2019-04-07,MI,RR,Sawai Mansingh Stadium,RR,field,MI,RR,MI,runs,3,False,MI
+41,2020,2020-04-06,KKR,GT,Narendra Modi Stadium,GT,field,KKR,GT,KKR,runs,8,False,KKR
+42,2020,2020-04-20,RCB,DC,Arun Jaitley Stadium,DC,field,RCB,DC,RCB,runs,21,True,RCB
+43,2020,2020-03-17,PBKS,LSG,Punjab Cricket Association Stadium,PBKS,field,LSG,PBKS,PBKS,wickets,7,False,PBKS
+44,2020,2020-03-24,CSK,KKR,MA Chidambaram Stadium,CSK,field,KKR,CSK,KKR,runs,43,False,CSK
+45,2020,2020-05-05,KKR,DC,Arun Jaitley Stadium,DC,field,KKR,DC,DC,wickets,5,False,KKR
+46,2020,2020-04-18,RCB,KKR,M. Chinnaswamy Stadium,KKR,bat,KKR,RCB,KKR,runs,20,False,RCB
+47,2020,2020-05-11,DC,PBKS,Arun Jaitley Stadium,DC,field,PBKS,DC,PBKS,runs,39,False,DC
+48,2020,2020-03-22,CSK,MI,Wankhede Stadium,CSK,field,MI,CSK,MI,runs,48,False,CSK
+49,2020,2020-03-22,SRH,GT,Rajiv Gandhi International Stadium,GT,bat,GT,SRH,GT,runs,49,False,SRH
+50,2020,2020-04-20,MI,RR,Sawai Mansingh Stadium,MI,bat,MI,RR,RR,wickets,4,False,MI
+51,2020,2020-03-21,CSK,SRH,MA Chidambaram Stadium,CSK,field,SRH,CSK,CSK,wickets,4,False,CSK
+52,2020,2020-04-02,RCB,PBKS,M. Chinnaswamy Stadium,RCB,field,PBKS,RCB,RCB,wickets,9,False,RCB
+53,2020,2020-05-17,MI,LSG,Wankhede Stadium,MI,field,LSG,MI,MI,wickets,8,False,MI
+54,2020,2020-04-29,DC,GT,Narendra Modi Stadium,GT,field,DC,GT,DC,runs,36,False,DC
+55,2020,2020-05-09,RCB,SRH,M. Chinnaswamy Stadium,SRH,field,RCB,SRH,SRH,wickets,4,False,RCB
+56,2020,2020-03-09,PBKS,GT,Narendra Modi Stadium,GT,field,PBKS,GT,GT,wickets,5,False,PBKS
+57,2020,2020-05-05,SRH,RR,Sawai Mansingh Stadium,SRH,bat,SRH,RR,RR,wickets,7,False,SRH
+58,2020,2020-03-07,DC,RR,Arun Jaitley Stadium,RR,field,DC,RR,DC,runs,27,True,DC
+59,2020,2020-04-25,MI,SRH,Rajiv Gandhi International Stadium,MI,field,SRH,MI,MI,wickets,6,False,MI
+60,2020,2020-04-16,CSK,DC,Arun Jaitley Stadium,DC,bat,DC,CSK,CSK,wickets,5,False,CSK
+61,2020,2020-05-18,CSK,PBKS,MA Chidambaram Stadium,PBKS,bat,PBKS,CSK,PBKS,runs,9,False,CSK
+62,2020,2020-04-06,CSK,LSG,MA Chidambaram Stadium,CSK,bat,CSK,LSG,CSK,runs,9,False,CSK
+63,2020,2020-04-09,CSK,GT,MA Chidambaram Stadium,GT,bat,GT,CSK,CSK,wickets,6,False,CSK
+64,2020,2020-03-12,DC,SRH,Rajiv Gandhi International Stadium,DC,field,SRH,DC,DC,wickets,9,False,DC
+65,2020,2020-03-20,RCB,RR,M. Chinnaswamy Stadium,RCB,bat,RCB,RR,RCB,runs,13,False,RCB
+66,2020,2020-04-23,KKR,RR,Eden Gardens,RR,bat,RR,KKR,RR,runs,14,False,KKR
+67,2020,2020-04-04,MI,PBKS,Punjab Cricket Association Stadium,MI,bat,MI,PBKS,MI,runs,11,False,MI
+68,2020,2020-03-19,KKR,SRH,Eden Gardens,SRH,field,KKR,SRH,KKR,runs,13,False,KKR
+69,2020,2020-03-12,PBKS,RR,Punjab Cricket Association Stadium,RR,bat,RR,PBKS,RR,runs,37,False,PBKS
+70,2020,2020-04-04,KKR,LSG,BRSABV Ekana Cricket Stadium,KKR,field,LSG,KKR,KKR,wickets,7,False,KKR
+71,2020,2020-05-09,RCB,LSG,BRSABV Ekana Cricket Stadium,LSG,bat,LSG,RCB,RCB,wickets,9,False,RCB
+72,2020,2020-04-29,DC,LSG,BRSABV Ekana Cricket Stadium,LSG,field,DC,LSG,DC,runs,6,False,DC
+73,2020,2020-04-06,CSK,RCB,M. Chinnaswamy Stadium,RCB,field,CSK,RCB,RCB,wickets,8,False,CSK
+74,2020,2020-05-01,SRH,LSG,BRSABV Ekana Cricket Stadium,LSG,field,SRH,LSG,LSG,wickets,5,False,SRH
+75,2020,2020-05-16,MI,DC,Wankhede Stadium,DC,field,MI,DC,MI,runs,16,True,MI
+76,2020,2020-05-08,MI,KKR,Eden Gardens,MI,bat,MI,KKR,KKR,wickets,7,False,MI
+77,2020,2020-04-24,GT,LSG,BRSABV Ekana Cricket Stadium,LSG,field,GT,LSG,GT,runs,23,False,GT
+78,2020,2020-03-24,MI,RCB,M. Chinnaswamy Stadium,RCB,field,MI,RCB,RCB,wickets,4,False,MI
+79,2020,2020-04-24,KKR,PBKS,Eden Gardens,KKR,bat,KKR,PBKS,PBKS,wickets,8,False,KKR
+80,2020,2020-04-01,SRH,PBKS,Punjab Cricket Association Stadium,SRH,field,PBKS,SRH,SRH,wickets,3,False,SRH
+81,2021,2021-03-08,MI,LSG,Wankhede Stadium,MI,bat,MI,LSG,LSG,wickets,2,False,MI
+82,2021,2021-04-02,GT,LSG,Narendra Modi Stadium,GT,bat,GT,LSG,LSG,wickets,8,False,GT
+83,2021,2021-04-26,RCB,GT,M. Chinnaswamy Stadium,GT,field,RCB,GT,GT,wickets,4,False,RCB
+84,2021,2021-03-02,KKR,GT,Eden Gardens,KKR,bat,KKR,GT,KKR,runs,10,False,KKR
+85,2021,2021-05-13,RCB,PBKS,M. Chinnaswamy Stadium,PBKS,field,RCB,PBKS,PBKS,wickets,5,False,RCB
+86,2021,2021-04-24,CSK,GT,Narendra Modi Stadium,GT,field,CSK,GT,GT,wickets,1,False,CSK
+87,2021,2021-05-27,MI,DC,Arun Jaitley Stadium,MI,bat,MI,DC,DC,wickets,1,False,MI
+88,2021,2021-04-06,KKR,LSG,BRSABV Ekana Cricket Stadium,KKR,field,LSG,KKR,KKR,wickets,8,False,KKR
+89,2021,2021-04-11,MI,PBKS,Punjab Cricket Association Stadium,PBKS,bat,PBKS,MI,MI,wickets,7,False,MI
+90,2021,2021-05-13,RCB,RR,M. Chinnaswamy Stadium,RR,field,RCB,RR,RCB,runs,19,False,RCB
+91,2021,2021-05-27,PBKS,RR,Punjab Cricket Association Stadium,RR,field,PBKS,RR,RR,wickets,7,False,PBKS
+92,2021,2021-04-20,KKR,PBKS,Eden Gardens,PBKS,field,KKR,PBKS,PBKS,wickets,9,False,KKR
+93,2021,2021-04-15,SRH,RR,Sawai Mansingh Stadium,SRH,bat,SRH,RR,RR,wickets,3,False,SRH
+94,2021,2021-05-14,KKR,DC,Arun Jaitley Stadium,KKR,bat,KKR,DC,DC,wickets,1,False,KKR
+95,2021,2021-03-16,RCB,SRH,M. Chinnaswamy Stadium,RCB,field,SRH,RCB,SRH,runs,42,False,RCB
+96,2021,2021-03-15,MI,RCB,M. Chinnaswamy Stadium,RCB,field,MI,RCB,MI,runs,31,False,MI
+97,2021,2021-04-30,RR,GT,Sawai Mansingh Stadium,RR,bat,RR,GT,GT,wickets,7,False,RR
+98,2021,2021-05-16,CSK,SRH,Rajiv Gandhi International Stadium,SRH,field,CSK,SRH,CSK,runs,38,False,CSK
+99,2021,2021-04-15,KKR,RR,Eden Gardens,RR,field,KKR,RR,RR,wickets,9,False,KKR
+100,2021,2021-03-11,DC,GT,Narendra Modi Stadium,DC,field,GT,DC,DC,wickets,7,False,DC
+101,2021,2021-03-16,RCB,LSG,BRSABV Ekana Cricket Stadium,LSG,field,RCB,LSG,RCB,runs,42,False,RCB
+102,2021,2021-03-17,KKR,SRH,Eden Gardens,SRH,bat,SRH,KKR,SRH,runs,29,False,KKR
+103,2021,2021-03-16,MI,SRH,Rajiv Gandhi International Stadium,MI,field,SRH,MI,SRH,runs,10,True,MI
+104,2021,2021-05-13,PBKS,LSG,BRSABV Ekana Cricket Stadium,LSG,bat,LSG,PBKS,LSG,runs,44,False,PBKS
+105,2021,2021-05-22,PBKS,GT,Narendra Modi Stadium,GT,bat,GT,PBKS,GT,runs,16,False,PBKS
+106,2021,2021-05-23,MI,GT,Narendra Modi Stadium,MI,field,GT,MI,GT,runs,49,False,MI
+107,2021,2021-04-12,SRH,GT,Rajiv Gandhi International Stadium,GT,bat,GT,SRH,SRH,wickets,1,False,SRH
+108,2021,2021-03-06,CSK,RCB,M. Chinnaswamy Stadium,CSK,field,RCB,CSK,RCB,runs,12,False,CSK
+109,2021,2021-03-15,CSK,PBKS,MA Chidambaram Stadium,PBKS,bat,PBKS,CSK,CSK,wickets,3,False,CSK
+110,2021,2021-05-06,MI,KKR,Eden Gardens,MI,field,KKR,MI,KKR,runs,44,False,MI
+111,2021,2021-05-09,MI,RR,Wankhede Stadium,RR,field,MI,RR,MI,runs,28,False,MI
+112,2021,2021-03-13,DC,RR,Sawai Mansingh Stadium,DC,field,RR,DC,RR,runs,7,False,DC
+113,2021,2021-04-09,DC,SRH,Rajiv Gandhi International Stadium,SRH,bat,SRH,DC,SRH,runs,43,False,DC
+114,2021,2021-03-20,SRH,LSG,Rajiv Gandhi International Stadium,SRH,field,LSG,SRH,LSG,runs,19,False,SRH
+115,2021,2021-05-22,CSK,MI,Wankhede Stadium,CSK,field,MI,CSK,MI,runs,47,False,CSK
+116,2021,2021-05-12,CSK,RR,MA Chidambaram Stadium,CSK,field,RR,CSK,RR,runs,3,False,CSK
+117,2021,2021-03-05,DC,PBKS,Arun Jaitley Stadium,PBKS,field,DC,PBKS,DC,runs,12,True,DC
+118,2021,2021-04-24,RR,LSG,BRSABV Ekana Cricket Stadium,LSG,bat,LSG,RR,RR,wickets,8,False,RR
+119,2021,2021-05-24,RCB,DC,Arun Jaitley Stadium,DC,bat,DC,RCB,RCB,wickets,4,False,RCB
+120,2021,2021-04-18,SRH,PBKS,Punjab Cricket Association Stadium,PBKS,bat,PBKS,SRH,PBKS,runs,1,False,SRH
+121,2022,2022-04-15,MI,KKR,Eden Gardens,KKR,bat,KKR,MI,KKR,runs,14,False,MI
+122,2022,2022-04-02,CSK,MI,MA Chidambaram Stadium,CSK,field,MI,CSK,MI,runs,42,False,CSK
+123,2022,2022-05-21,MI,SRH,Rajiv Gandhi International Stadium,MI,field,SRH,MI,MI,wickets,4,False,MI
+124,2022,2022-03-03,PBKS,LSG,Punjab Cricket Association Stadium,LSG,bat,LSG,PBKS,LSG,runs,37,True,PBKS
+125,2022,2022-03-09,KKR,SRH,Eden Gardens,KKR,field,SRH,KKR,SRH,runs,39,False,KKR
+126,2022,2022-03-01,RCB,SRH,M. Chinnaswamy Stadium,SRH,bat,SRH,RCB,RCB,wickets,1,False,RCB
+127,2022,2022-03-05,KKR,RR,Sawai Mansingh Stadium,KKR,field,RR,KKR,KKR,wickets,5,False,KKR
+128,2022,2022-05-19,MI,DC,Arun Jaitley Stadium,MI,field,DC,MI,MI,wickets,6,False,MI
+129,2022,2022-05-10,PBKS,RR,Punjab Cricket Association Stadium,PBKS,bat,PBKS,RR,PBKS,runs,43,False,PBKS
+130,2022,2022-04-22,CSK,PBKS,Punjab Cricket Association Stadium,CSK,bat,CSK,PBKS,CSK,runs,26,False,CSK
+131,2022,2022-05-05,RCB,DC,M. Chinnaswamy Stadium,DC,bat,DC,RCB,DC,runs,21,False,RCB
+132,2022,2022-04-15,PBKS,GT,Punjab Cricket Association Stadium,GT,field,PBKS,GT,PBKS,runs,34,False,PBKS
+133,2022,2022-04-11,CSK,KKR,Eden Gardens,CSK,bat,CSK,KKR,KKR,wickets,4,True,CSK
+134,2022,2022-04-05,CSK,LSG,BRSABV Ekana Cricket Stadium,CSK,field,LSG,CSK,CSK,wickets,5,False,CSK
+135,2022,2022-03-18,KKR,GT,Narendra Modi Stadium,KKR,bat,KKR,GT,GT,wickets,6,True,KKR
+136,2022,2022-05-02,GT,LSG,Narendra Modi Stadium,LSG,bat,LSG,GT,GT,wickets,7,False,GT
+137,2022,2022-03-22,RCB,KKR,Eden Gardens,KKR,bat,KKR,RCB,KKR,runs,14,False,RCB
+138,2022,2022-03-25,SRH,LSG,BRSABV Ekana Cricket Stadium,SRH,field,LSG,SRH,LSG,runs,24,False,SRH
+139,2022,2022-05-09,MI,GT,Narendra Modi Stadium,GT,bat,GT,MI,GT,runs,43,False,MI
+140,2022,2022-03-19,RR,LSG,Sawai Mansingh Stadium,LSG,field,RR,LSG,LSG,wickets,3,False,RR
+141,2022,2022-04-14,RCB,RR,Sawai Mansingh Stadium,RCB,bat,RCB,RR,RCB,runs,14,True,RCB
+142,2022,2022-05-20,DC,LSG,BRSABV Ekana Cricket Stadium,LSG,field,DC,LSG,DC,runs,50,False,DC
+143,2022,2022-05-03,DC,PBKS,Arun Jaitley Stadium,DC,bat,DC,PBKS,DC,runs,4,False,DC
+144,2022,2022-04-07,CSK,DC,Arun Jaitley Stadium,DC,field,CSK,DC,CSK,runs,27,False,CSK
+145,2022,2022-04-17,MI,PBKS,Wankhede Stadium,MI,field,PBKS,MI,PBKS,runs,38,False,MI
+146,2022,2022-03-25,SRH,PBKS,Punjab Cricket Association Stadium,PBKS,bat,PBKS,SRH,SRH,wickets,5,True,SRH
+147,2022,2022-05-14,MI,RCB,Wankhede Stadium,RCB,field,MI,RCB,RCB,wickets,8,False,MI
+148,2022,2022-04-01,RCB,GT,M. Chinnaswamy Stadium,RCB,field,GT,RCB,RCB,wickets,1,False,RCB
+149,2022,2022-05-14,DC,RR,Sawai Mansingh Stadium,RR,field,DC,RR,DC,runs,46,False,DC
+150,2022,2022-05-30,KKR,PBKS,Punjab Cricket Association Stadium,KKR,field,PBKS,KKR,KKR,wickets,8,False,KKR
+151,2022,2022-05-03,DC,GT,Narendra Modi Stadium,DC,bat,DC,GT,GT,wickets,7,True,DC
+152,2022,2022-03-17,CSK,SRH,Rajiv Gandhi International Stadium,SRH,bat,SRH,CSK,CSK,wickets,3,False,CSK
+153,2022,2022-03-04,SRH,RR,Rajiv Gandhi International Stadium,SRH,field,RR,SRH,SRH,wickets,3,False,SRH
+154,2022,2022-03-06,RCB,PBKS,M. Chinnaswamy Stadium,RCB,bat,RCB,PBKS,RCB,runs,42,False,RCB
+155,2022,2022-04-05,CSK,RCB,M. Chinnaswamy Stadium,RCB,field,CSK,RCB,CSK,runs,41,False,CSK
+156,2022,2022-03-12,DC,SRH,Rajiv Gandhi International Stadium,SRH,field,DC,SRH,DC,runs,38,True,DC
+157,2022,2022-03-21,MI,RR,Wankhede Stadium,RR,bat,RR,MI,MI,wickets,5,False,MI
+158,2022,2022-03-15,CSK,RR,MA Chidambaram Stadium,RR,field,CSK,RR,CSK,runs,48,False,CSK
+159,2022,2022-03-26,RR,GT,Sawai Mansingh Stadium,GT,bat,GT,RR,GT,runs,29,False,RR
+160,2022,2022-04-17,KKR,DC,Arun Jaitley Stadium,KKR,bat,KKR,DC,DC,wickets,8,False,KKR
+161,2023,2023-04-07,SRH,PBKS,Punjab Cricket Association Stadium,PBKS,bat,PBKS,SRH,PBKS,runs,22,True,SRH
+162,2023,2023-05-25,CSK,GT,MA Chidambaram Stadium,CSK,bat,CSK,GT,GT,wickets,2,False,CSK
+163,2023,2023-05-25,MI,RR,Wankhede Stadium,MI,field,RR,MI,MI,wickets,3,False,MI
+164,2023,2023-04-20,CSK,MI,MA Chidambaram Stadium,CSK,field,MI,CSK,CSK,wickets,4,False,CSK
+165,2023,2023-04-29,SRH,LSG,BRSABV Ekana Cricket Stadium,LSG,bat,LSG,SRH,LSG,runs,20,False,SRH
+166,2023,2023-04-17,MI,GT,Wankhede Stadium,GT,field,MI,GT,MI,runs,50,False,MI
+167,2023,2023-05-16,MI,PBKS,Punjab Cricket Association Stadium,MI,bat,MI,PBKS,MI,runs,4,False,MI
+168,2023,2023-04-15,CSK,PBKS,Punjab Cricket Association Stadium,CSK,bat,CSK,PBKS,PBKS,wickets,3,False,CSK
+169,2023,2023-03-14,DC,PBKS,Arun Jaitley Stadium,DC,bat,DC,PBKS,DC,runs,23,False,DC
+170,2023,2023-04-08,SRH,GT,Rajiv Gandhi International Stadium,GT,bat,GT,SRH,SRH,wickets,2,False,SRH
+171,2023,2023-03-10,KKR,SRH,Eden Gardens,KKR,field,SRH,KKR,SRH,runs,9,False,KKR
+172,2023,2023-03-01,CSK,RCB,M. Chinnaswamy Stadium,CSK,field,RCB,CSK,CSK,wickets,1,False,CSK
+173,2023,2023-03-10,DC,SRH,Rajiv Gandhi International Stadium,DC,field,SRH,DC,DC,wickets,5,False,DC
+174,2023,2023-05-18,MI,LSG,Wankhede Stadium,LSG,field,MI,LSG,LSG,wickets,8,True,MI
+175,2023,2023-05-12,RCB,PBKS,M. Chinnaswamy Stadium,RCB,bat,RCB,PBKS,PBKS,wickets,1,False,RCB
+176,2023,2023-03-17,KKR,GT,Eden Gardens,KKR,bat,KKR,GT,KKR,runs,24,False,KKR
+177,2023,2023-04-24,KKR,RR,Eden Gardens,RR,bat,RR,KKR,RR,runs,24,False,KKR
+178,2023,2023-05-24,MI,DC,Wankhede Stadium,MI,field,DC,MI,MI,wickets,2,False,MI
+179,2023,2023-05-15,RCB,GT,Narendra Modi Stadium,GT,field,RCB,GT,RCB,runs,12,False,RCB
+180,2023,2023-03-10,RR,LSG,BRSABV Ekana Cricket Stadium,RR,bat,RR,LSG,RR,runs,30,False,RR
+181,2023,2023-05-13,CSK,KKR,MA Chidambaram Stadium,CSK,bat,CSK,KKR,KKR,wickets,5,True,CSK
+182,2023,2023-05-11,RR,GT,Narendra Modi Stadium,RR,field,GT,RR,RR,wickets,1,False,RR
+183,2023,2023-04-29,GT,LSG,BRSABV Ekana Cricket Stadium,LSG,field,GT,LSG,GT,runs,48,False,GT
+184,2023,2023-05-09,RCB,SRH,Rajiv Gandhi International Stadium,RCB,field,SRH,RCB,SRH,runs,24,False,RCB
+185,2023,2023-05-10,KKR,LSG,Eden Gardens,KKR,field,LSG,KKR,LSG,runs,12,False,KKR
+186,2023,2023-03-23,PBKS,GT,Narendra Modi Stadium,GT,field,PBKS,GT,GT,wickets,7,False,PBKS
+187,2023,2023-04-21,CSK,LSG,BRSABV Ekana Cricket Stadium,CSK,field,LSG,CSK,LSG,runs,28,False,CSK
+188,2023,2023-03-05,MI,RCB,Wankhede Stadium,RCB,field,MI,RCB,RCB,wickets,3,True,MI
+189,2023,2023-04-13,MI,SRH,Rajiv Gandhi International Stadium,MI,bat,MI,SRH,MI,runs,24,True,MI
+190,2023,2023-05-05,DC,RR,Arun Jaitley Stadium,RR,field,DC,RR,RR,wickets,2,False,DC
+191,2023,2023-05-06,RCB,KKR,Eden Gardens,KKR,bat,KKR,RCB,KKR,runs,2,False,RCB
+192,2023,2023-04-07,CSK,RR,Sawai Mansingh Stadium,CSK,field,RR,CSK,RR,runs,46,False,CSK
+193,2023,2023-04-06,DC,LSG,BRSABV Ekana Cricket Stadium,LSG,bat,LSG,DC,DC,wickets,2,False,DC
+194,2023,2023-05-10,CSK,SRH,Rajiv Gandhi International Stadium,SRH,field,CSK,SRH,CSK,runs,36,False,CSK
+195,2023,2023-03-26,SRH,RR,Sawai Mansingh Stadium,SRH,field,RR,SRH,SRH,wickets,2,False,SRH
+196,2023,2023-04-26,CSK,DC,MA Chidambaram Stadium,DC,bat,DC,CSK,CSK,wickets,6,False,CSK
+197,2023,2023-05-14,RCB,RR,M. Chinnaswamy Stadium,RCB,bat,RCB,RR,RR,wickets,8,False,RCB
+198,2023,2023-03-15,KKR,PBKS,Punjab Cricket Association Stadium,KKR,bat,KKR,PBKS,KKR,runs,42,False,KKR
+199,2023,2023-05-21,KKR,DC,Arun Jaitley Stadium,DC,bat,DC,KKR,DC,runs,50,False,KKR
+200,2023,2023-03-17,RCB,DC,M. Chinnaswamy Stadium,RCB,field,DC,RCB,RCB,wickets,1,False,RCB
+201,2024,2024-03-15,CSK,GT,Narendra Modi Stadium,GT,field,CSK,GT,GT,wickets,1,False,CSK
+202,2024,2024-05-11,KKR,RR,Sawai Mansingh Stadium,KKR,field,RR,KKR,RR,runs,21,False,KKR
+203,2024,2024-04-08,DC,PBKS,Punjab Cricket Association Stadium,DC,field,PBKS,DC,DC,wickets,2,False,DC
+204,2024,2024-04-13,MI,GT,Narendra Modi Stadium,GT,bat,GT,MI,MI,wickets,1,False,MI
+205,2024,2024-04-07,MI,PBKS,Punjab Cricket Association Stadium,MI,field,PBKS,MI,PBKS,runs,47,False,MI
+206,2024,2024-03-03,KKR,GT,Eden Gardens,GT,field,KKR,GT,KKR,runs,32,False,KKR
+207,2024,2024-03-10,MI,DC,Arun Jaitley Stadium,MI,bat,MI,DC,MI,runs,4,False,MI
+208,2024,2024-04-05,PBKS,RR,Sawai Mansingh Stadium,RR,field,PBKS,RR,PBKS,runs,7,False,PBKS
+209,2024,2024-05-18,CSK,RR,Sawai Mansingh Stadium,RR,field,CSK,RR,RR,wickets,1,False,CSK
+210,2024,2024-05-09,CSK,DC,MA Chidambaram Stadium,DC,bat,DC,CSK,CSK,wickets,8,False,CSK
+211,2024,2024-05-12,KKR,DC,Eden Gardens,KKR,field,DC,KKR,KKR,wickets,6,False,KKR
+212,2024,2024-05-11,KKR,LSG,Eden Gardens,LSG,bat,LSG,KKR,KKR,wickets,3,False,KKR
+213,2024,2024-03-13,SRH,GT,Narendra Modi Stadium,SRH,bat,SRH,GT,GT,wickets,6,False,SRH
+214,2024,2024-04-11,RCB,RR,Sawai Mansingh Stadium,RR,field,RCB,RR,RR,wickets,1,False,RCB
+215,2024,2024-05-26,KKR,SRH,Eden Gardens,SRH,bat,SRH,KKR,SRH,runs,17,False,KKR
+216,2024,2024-05-25,KKR,PBKS,Eden Gardens,PBKS,bat,PBKS,KKR,PBKS,runs,47,False,KKR
+217,2024,2024-03-07,CSK,MI,Wankhede Stadium,CSK,bat,CSK,MI,CSK,runs,45,False,CSK
+218,2024,2024-04-17,CSK,RCB,MA Chidambaram Stadium,RCB,bat,RCB,CSK,CSK,wickets,4,False,CSK
+219,2024,2024-04-22,PBKS,LSG,BRSABV Ekana Cricket Stadium,PBKS,bat,PBKS,LSG,LSG,wickets,9,False,PBKS
+220,2024,2024-04-18,RCB,LSG,BRSABV Ekana Cricket Stadium,LSG,bat,LSG,RCB,RCB,wickets,9,False,RCB
+221,2024,2024-04-18,CSK,SRH,Rajiv Gandhi International Stadium,SRH,field,CSK,SRH,SRH,wickets,4,False,CSK
+222,2024,2024-05-16,SRH,LSG,BRSABV Ekana Cricket Stadium,LSG,field,SRH,LSG,SRH,runs,45,False,SRH
+223,2024,2024-04-29,SRH,RR,Sawai Mansingh Stadium,RR,field,SRH,RR,RR,wickets,9,False,SRH
+224,2024,2024-04-30,SRH,PBKS,Punjab Cricket Association Stadium,SRH,field,PBKS,SRH,SRH,wickets,2,False,SRH
+225,2024,2024-04-30,DC,SRH,Rajiv Gandhi International Stadium,SRH,bat,SRH,DC,DC,wickets,9,False,DC
+226,2024,2024-03-21,DC,LSG,BRSABV Ekana Cricket Stadium,DC,bat,DC,LSG,LSG,wickets,9,False,DC
+227,2024,2024-05-25,CSK,KKR,MA Chidambaram Stadium,KKR,field,CSK,KKR,CSK,runs,7,True,CSK
+228,2024,2024-04-21,DC,RR,Arun Jaitley Stadium,DC,field,RR,DC,RR,runs,31,True,DC
+229,2024,2024-03-21,RR,LSG,Sawai Mansingh Stadium,LSG,field,RR,LSG,LSG,wickets,1,False,RR
+230,2024,2024-03-27,GT,LSG,Narendra Modi Stadium,GT,bat,GT,LSG,LSG,wickets,3,False,GT
+231,2024,2024-04-19,PBKS,GT,Narendra Modi Stadium,PBKS,field,GT,PBKS,GT,runs,1,False,PBKS
+232,2024,2024-05-16,CSK,LSG,MA Chidambaram Stadium,LSG,field,CSK,LSG,LSG,wickets,9,False,CSK
+233,2024,2024-04-06,RCB,KKR,M. Chinnaswamy Stadium,KKR,field,RCB,KKR,KKR,wickets,2,False,RCB
+234,2024,2024-05-22,MI,SRH,Rajiv Gandhi International Stadium,MI,bat,MI,SRH,MI,runs,19,False,MI
+235,2024,2024-04-22,MI,LSG,Wankhede Stadium,LSG,field,MI,LSG,LSG,wickets,2,False,MI
+236,2024,2024-03-09,CSK,PBKS,MA Chidambaram Stadium,CSK,field,PBKS,CSK,CSK,wickets,4,False,CSK
+237,2024,2024-04-21,RCB,DC,Arun Jaitley Stadium,DC,field,RCB,DC,DC,wickets,1,False,RCB
+238,2024,2024-04-22,DC,GT,Narendra Modi Stadium,DC,bat,DC,GT,GT,wickets,3,False,DC
+239,2024,2024-03-16,RCB,GT,Narendra Modi Stadium,GT,field,RCB,GT,RCB,runs,15,False,RCB
+240,2024,2024-05-26,MI,RR,Wankhede Stadium,RR,field,MI,RR,MI,runs,31,False,MI
